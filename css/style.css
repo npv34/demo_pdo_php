@@ -1,0 +1,31 @@
+#list-users {
+    width: 100%;
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
+#user-add {
+    width: 100%;
+}
+
+input {
+    width: 90%;
+}
+
+td {
+    padding: 5px;
+}
+
+tr , td, th {
+    border: 1px solid red;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.show-list-user {
+    width: 80%;
+    float: left;
+}
